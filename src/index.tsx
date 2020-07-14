@@ -9,6 +9,8 @@ import "babel-polyfill";
 
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./App";
+//import App from "./App";
+//import App from "./PatientList";
+import App from "./PatientCard";
 
 ReactDOM.render(<App />, document.getElementById("root"));
